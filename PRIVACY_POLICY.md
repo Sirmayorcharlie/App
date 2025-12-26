@@ -1,37 +1,37 @@
 # Privacy Policy
 
-## TL;DR: We Don't Touch Your Data
+## TL;DR: I Don't Touch Your Data
 
 This privacy policy exists because Google made me create one. That's literally the only reason it exists.
 
-## What Data Do We Collect?
+## What Data Do I Collect?
 
 **Nothing.** Zero. Nada. Zilch.
 
-We don't collect, store, use, or even look at your data. We don't know who you are, what you're doing, or what you had for breakfast.
+I don't collect, store, use, or even look at your data. I don't know who you are, what you're doing, or what you had for breakfast.
 
-## What Do We Do With Your Data?
+## What Do I Do With Your Data?
 
-Since we don't collect any data, we don't do anything with it. It's pretty simple.
+Since I don't collect any data, I don't do anything with it. It's pretty simple.
 
 ## Third-Party Services
 
-We don't use any third-party analytics, advertising networks, or tracking services. Your data stays with you, where it belongs.
+I don't use any third-party analytics, advertising networks, or tracking services. Your data stays with you, where it belongs.
 
 ## Children's Privacy
 
-We don't collect data from anyone, including children. Equal opportunity privacy for all ages.
+I don't collect data from anyone, including children. Equal opportunity privacy for all ages.
 
 ## Changes to This Policy
 
-If we ever change our minds and decide to collect data (which would be surprising), we'll update this policy. But honestly, don't hold your breath.
+If I ever change my mind and decide to collect data (which would be surprising), I'll update this policy. But honestly, don't hold your breath.
 
 ## Contact
 
-If you have questions about this privacy policy, feel free to reach out. But the answer will probably just be: "We still don't collect your data."
+If you have questions about this privacy policy, feel free to reach out. But the answer will probably just be: "I still don't collect your data."
 
 ---
 
-**Last Updated:** December 2025
+**Last Updated:** December 26, 2025
 
-**Summary:** We don't collect, use, store, or share any of your personal information. This policy exists solely because Google requires one for app distribution.
+**Summary:** I don't collect, use, store, or share any of your personal information. This policy exists solely because Google requires one for app distribution.
